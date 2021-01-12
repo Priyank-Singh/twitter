@@ -141,6 +141,6 @@
       {
              ios;
              int t = 1;
-             cin >> t;
+            // cin >> t;
              while(t--)sol();
       }
